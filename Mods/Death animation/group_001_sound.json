@@ -1,0 +1,33 @@
+{
+  "Name": "sound",
+  "Description": "A mutually exclusive group of settings.",
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "normal",
+      "Files": {
+        "sound/deadge.scd": "sound\\mdeadge.scd"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "normal + xp",
+      "Files": {
+        "sound/deadge.scd": "sound\\mdeadgeexp.scd"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "huh?",
+      "Files": {
+        "sound/deadge.scd": "sound\\rdeadge.scd"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

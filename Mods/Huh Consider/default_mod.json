@@ -1,0 +1,24 @@
+{
+  "Name": "",
+  "Priority": 0,
+  "Files": {
+    "chara/human/c0101/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0101\\consider.pap",
+    "chara/human/c0201/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0201\\consider.pap",
+    "chara/human/c0401/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0401\\consider.pap",
+    "chara/human/c0501/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0501\\consider.pap",
+    "chara/human/c0601/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0601\\consider.pap",
+    "chara/human/c0701/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0701\\consider.pap",
+    "chara/human/c0801/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c0801\\consider.pap",
+    "chara/human/c1001/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1001\\consider.pap",
+    "chara/human/c1101/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1101\\consider.pap",
+    "chara/human/c1301/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1301\\consider.pap",
+    "chara/human/c1401/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1401\\consider.pap",
+    "chara/human/c1501/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1501\\consider.pap",
+    "chara/human/c1701/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1701\\consider.pap",
+    "chara/human/c1801/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c1801\\consider.pap",
+    "chara/human/c0901/animation/a0001/bt_common/emote_sp/sp20.pap": "chara\\c901\\consider.pap",
+    "sound/ha.scd": "sound\\ha.scd"
+  },
+  "FileSwaps": {},
+  "Manipulations": []
+}
